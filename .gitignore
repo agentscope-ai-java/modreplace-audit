@@ -1,0 +1,7 @@
+/modreplace-audit
+/bin/
+*.exe
+*.test
+*.out
+coverage.txt
+coverage.html

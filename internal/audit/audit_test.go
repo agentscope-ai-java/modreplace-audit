@@ -4,8 +4,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/__GH_OWNER__/modreplace-audit/internal/gomod"
-	"github.com/__GH_OWNER__/modreplace-audit/internal/gosum"
+	"github.com/agentscope-ai-java/modreplace-audit/internal/gomod"
+	"github.com/agentscope-ai-java/modreplace-audit/internal/gosum"
 )
 
 func mustParse(t *testing.T, src string) *gomod.File {

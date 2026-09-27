@@ -76,7 +76,7 @@ The usual workaround doesn't fix this either:
 ## Install
 
 ```sh
-go install github.com/__GH_OWNER__/modreplace-audit/cmd/modreplace-audit@latest
+go install github.com/agentscope-ai-java/modreplace-audit/cmd/modreplace-audit@latest
 ```
 
 Go >= 1.27.1 (the `go` directive in `go.mod`). No runtime dependencies — see

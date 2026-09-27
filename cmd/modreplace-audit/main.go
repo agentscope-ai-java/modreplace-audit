@@ -16,9 +16,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/__GH_OWNER__/modreplace-audit/internal/audit"
-	"github.com/__GH_OWNER__/modreplace-audit/internal/gomod"
-	"github.com/__GH_OWNER__/modreplace-audit/internal/gosum"
+	"github.com/agentscope-ai-java/modreplace-audit/internal/audit"
+	"github.com/agentscope-ai-java/modreplace-audit/internal/gomod"
+	"github.com/agentscope-ai-java/modreplace-audit/internal/gosum"
 )
 
 const usageTemplate = `modreplace-audit — flag what changed in a go.mod's replace/exclude/retract directives

@@ -12,8 +12,8 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/__GH_OWNER__/modreplace-audit/internal/audit"
-	"github.com/__GH_OWNER__/modreplace-audit/internal/gomod"
+	"github.com/agentscope-ai-java/modreplace-audit/internal/audit"
+	"github.com/agentscope-ai-java/modreplace-audit/internal/gomod"
 )
 
 func main() {

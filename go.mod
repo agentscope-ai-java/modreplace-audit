@@ -1,3 +1,3 @@
-module github.com/__GH_OWNER__/modreplace-audit
+module github.com/agentscope-ai-java/modreplace-audit
 
 go 1.27.1
